@@ -1,4 +1,5 @@
-Test case for reset
+Test case for Test Branch
+
 Pre condition
  Step 1
 Step2
